@@ -13,7 +13,7 @@ class ServiceCheckReport extends CheckReport
 {
     public function getName()
     {
-        $name = t('Service Check Report');
+        $name = t('Service Check Report (ido)');
         return $name;
     }
 
