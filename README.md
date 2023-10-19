@@ -7,7 +7,7 @@ This module provides the ability to generate reports with the check output as re
 Please read the following chapters for more insights on this module:
 
 * [Installation](doc/02-Installation.md#module-checkreports-installation)
-* [Configuration]doc/(03-Configuration.md#module-checkreports-configuration)
+* [Configuration](doc/03-Configuration.md#module-checkreports-configuration)
 * [Usage](doc/04-Usage.md#module-checkreports-usage)
 
 ## Source
