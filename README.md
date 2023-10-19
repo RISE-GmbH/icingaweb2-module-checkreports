@@ -6,9 +6,9 @@ This module provides the ability to generate reports with the check output as re
 
 Please read the following chapters for more insights on this module:
 
-* [Installation](02-Installation.md#module-checkreports-installation)
-* [Configuration](03-Configuration.md#module-checkreports-configuration)
-* [Usage](04-Usage.md#module-checkreports-usage)
+* [Installation](doc/02-Installation.md#module-checkreports-installation)
+* [Configuration]doc/(03-Configuration.md#module-checkreports-configuration)
+* [Usage](doc/04-Usage.md#module-checkreports-usage)
 
 ## Source
 
