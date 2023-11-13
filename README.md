@@ -12,7 +12,7 @@ Please read the following chapters for more insights on this module:
 
 ## Source
 
-This module is based on idoreports and icingaweb-web.
+This module is based on idoreports and icingadb-web.
 
 
 ## Contributing
